@@ -1,0 +1,16 @@
+{
+  "name": "order",
+  "version": "1.0.0",
+  "description": "",
+  "main": "structure.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^12.1.1",
+    "node-telegram-bot-api": "^0.63.0",
+    "require": "^0.4.4"
+  }
+}
